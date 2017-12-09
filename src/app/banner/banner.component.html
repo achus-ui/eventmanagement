@@ -1,6 +1,7 @@
 <ngx-carousel
     [inputs]="carouselTile"
-    (carouselLoad)="carouselTileLoad($event)">
+    (carouselLoad)="carouselTileLoad($event)"
+    ngsReveal>
  
             <ngx-tile NgxCarouselItem *ngFor="let Tile of carouselTileItems">
                 <h1>{{Tile + 1}}</h1>

@@ -1,3 +1,27 @@
-<p>
-  main-search works!
-</p>
+<div class="filter-holder">
+	<div class="select-location">
+		<i class="fa fa-map-marker" aria-hidden="true"></i>
+		<div class="selected-location">
+			<span class="selected">Bangalore</span>
+		</div>
+		<i class="fa fa-angle-down" aria-hidden="true"></i>
+		<ul class="dropdown-list"
+			malihu-scrollbar [scrollbarOptions]="scrollbarOptions">
+			<li>Bangalore</li>
+			<li>Hyderabad</li>
+			<li>Kochi</li>
+			<li>Mumbai</li>
+			<li>Chennai</li>
+			<li>Delhi</li>
+			<li>Goa</li>
+			<li>Singapore</li>
+			<li>Kolkatta</li>
+			<li>Pune</li>
+		</ul>
+	</div>
+	<div class="search-field">
+		<input type="text" placeholder="Search for Medical Events">
+		<i class="fa fa-calendar" aria-hidden="true"></i>
+	</div>
+</div>
+<button type="button" class="btn btn-primary">Search <i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>

@@ -4,6 +4,16 @@
 @import "components/header";
 @import "components/banner";
 @import "components/search-bar";
+@import "components/categories";
+@import "components/footer";
+input {
+	&:focus,
+	&:hover,
+	&:active {
+		border: 0;
+		outline: none;
+	}
+}
 body {
 	margin: auto;
 	font-family: 'Roboto', sans-serif;

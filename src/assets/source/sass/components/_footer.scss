@@ -1,0 +1,37 @@
+app-footer {
+	display: block;
+	.secondary-footer {
+		padding: 40px;
+		background: url('../../img/banner/footer.jpg') center center no-repeat;
+		background-size: cover;
+		img {
+			display: block;
+			margin: auto;
+		}
+		h2 {
+			color: $agent-color-1;
+			text-align: center;
+			text-transform: uppercase;
+			margin: 20px 0;
+			font-weight: fontWeight(0);
+		}
+		.contents {
+			display: flex;
+			p {
+				flex: 1;
+				text-align: center;
+				color: $agent-color-1;
+			}
+		}
+	}
+	footer {
+		width: 100%;
+		padding: 10px;
+		background: $primary-color;
+		p {
+			text-align: center;
+			margin: 0;
+			color: $agent-color-1;
+		}
+	}
+}

@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './main-search.component.html'
 })
 export class MainSearchComponent implements OnInit {
-
+	public scrollbarOptions = { axis: 'y', theme: 'minimal-dark' };
   constructor() { }
 
   ngOnInit() {
