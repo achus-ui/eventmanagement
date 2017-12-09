@@ -6,6 +6,7 @@ app-main-search {
 	position: absolute;
 	bottom: -30px;
 	left: 50%;
+	z-index: 9;
 	@include translate(-50%,0,0);
 	@include border-radius(6px);
 	.filter-holder {
@@ -16,6 +17,33 @@ app-main-search {
 			padding: 5px 15px;
     		border-right: 1px solid $teritiary-color;
     		position: relative;
+    		.holder {
+    			display: block;
+    			cursor: pointer;
+    			&.open {
+	    			&+ul.dropdown-list {
+	    				transform-origin: top;
+					    @include transitions(all,0.3s,ease-in-out);
+					    @include scale(1,1,1);
+	    			}
+	    		}
+    			i {
+					display: inline-block;
+					font-size: fontSize(14px);
+					float: left;
+					line-height: 36px;
+				}
+				.selected-location {
+					float: left;
+					padding: 0 15px;
+					span {
+						line-height: 37px;
+					}
+					&+i {
+						font-size: fontSize(2px);
+					}
+				}
+    		}
     		ul.dropdown-list {
     			width: 100%;
     			max-height: 220px;
@@ -25,6 +53,7 @@ app-main-search {
     			position: absolute;
 			    left: 0;
 			    top: 60px;
+			    z-index: 9;
 			    background: $agent-color-1;
 			    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 			    transform-origin: top;
@@ -33,24 +62,9 @@ app-main-search {
 			    li {
 			    	list-style: none;
 			    	padding: 10px 0;
+			    	cursor: pointer;
 			    }
     		}
-			i {
-				display: inline-block;
-				font-size: fontSize(14px);
-				float: left;
-				line-height: 36px;
-			}
-			.selected-location {
-				float: left;
-				padding: 0 15px;
-				span {
-					line-height: 37px;
-				}
-				&+i {
-					font-size: fontSize(2px);
-				}
-			}
 		}
 		.search-field {
 			flex:3;

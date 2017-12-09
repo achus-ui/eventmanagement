@@ -6,9 +6,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MainSearchComponent implements OnInit {
 	public scrollbarOptions = { axis: 'y', theme: 'minimal-dark' };
-  constructor() { }
+	public hideShow: boolean = false;
+  constructor() { 
+  }
 
   ngOnInit() {
+  }
+
+  openDropDownList() {
+  	this.hideShow = !this.hideShow;
   }
 
 }
