@@ -1,6 +1,9 @@
 @import "base/colors";
 @import "base/typography";
 @import "helpers/mixins";
+@import "components/header";
+@import "components/banner";
+@import "components/search-bar";
 body {
 	margin: auto;
 	font-family: 'Roboto', sans-serif;
