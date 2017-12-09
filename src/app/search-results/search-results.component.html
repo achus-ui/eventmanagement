@@ -1,0 +1,54 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-3">
+      <div class="card">
+        <div class="card-header">
+          filter by
+        </div>
+        <ul class="list-group list-group-flush filter-items"
+        	malihu-scrollbar [scrollbarOptions]="scrollbarOptions">
+          <li class="list-group-item"> <input type="checkbox"> Only discounted packages</li>
+        </ul>
+        <div class="repeater"
+        	*ngFor="let data of datas;">
+        	<h5>{{ data['type'] }}</h5>
+	        <ul class="list-group list-group-flush filter-items"
+	        	malihu-scrollbar [scrollbarOptions]="scrollbarOptions">
+	          <li class="list-group-item"
+	          	*ngFor="let result of data['results']">
+	          	<input type="checkbox"> {{ result.name }}
+	          </li>
+	        </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-9">
+      <ul class="list-holder">
+      	<li
+      		*ngFor="let data of dataResults;">
+      		<span class="name-pic">{{ data.testName |  slice:0:1 }}</span>
+      		<span class="name-desc">
+      			{{ data.testName }}<br>
+      			<small>by <b>{{ data.firmName }}</b></small><br>
+				<small class="place"><i class="fa fa-map-marker" aria-hidden="true"></i> {{ data.location }}</small>
+      		</span>
+      		<span class="time-details">
+      			<i class="fa fa-clock-o" aria-hidden="true"></i> 7:30AM - 11.30 AM
+      			<table class="table table-bordered">
+      				<tbody>
+      					<tr align="center">
+      						<td>36<br>test</td>
+      						<td>2<br>consults</td>
+      					</tr>
+      				</tbody>
+      			</table>
+      		</span>
+      		<span class="price-book">
+      			<p>{{ data.price }}</p>
+      			<button type="button" class="btn btn-primary">Book Now</button>
+      		</span>
+      	</li>
+      </ul>
+    </div>
+  </div>
+</div>
