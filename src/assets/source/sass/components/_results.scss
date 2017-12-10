@@ -24,6 +24,7 @@ app-search-results {
 				    text-overflow: ellipsis;
 				    overflow: hidden;
 				    cursor: pointer;
+				    color: $teritiary-color;
 				}
 			}
 		}
@@ -51,8 +52,9 @@ app-search-results {
 					    height: 70px;
 					    text-align: center;
 					    line-height: 70px;
-						border: 1px solid #ddd;
+						border: 1px solid;
 						margin-right: 10px;
+						color: $secondary-color;
 						@include border-radius(50%);
 					}
 					&.name-desc {
@@ -79,7 +81,12 @@ app-search-results {
 							&.btn-primary {
 								width: 100%;
 								cursor: pointer;
+								background: $teritiary-color;
+								border-color: $teritiary-color;
 								@include border-radius(0);
+								&:hover {
+									background: darken($teritiary-color, 15%);
+								}
 							}
 						}
 					}
