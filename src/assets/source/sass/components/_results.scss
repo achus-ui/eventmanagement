@@ -78,6 +78,7 @@ app-search-results {
 						button {
 							&.btn-primary {
 								width: 100%;
+								cursor: pointer;
 								@include border-radius(0);
 							}
 						}
