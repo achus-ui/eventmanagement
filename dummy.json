@@ -1,0 +1,26 @@
+[
+  {
+    "testName": "Diabetic Checking",
+    "firmName": "Thyrocare Technologies Ltd",
+    "location": "HSR Layout",
+    "price": 200
+  },
+  {
+    "testName": "Pressure Checking",
+    "firmName": "Pressure Company",
+    "location": "Madiwala",
+    "price": 1200
+  },
+  {
+    "testName": "dfdstrtetfsfs Checking",
+    "firmName": "errwere Company",
+    "location": "Madiwala",
+    "price": 1200
+  },
+  {
+    "testName": "dfsfsf Checking",
+    "firmName": "fdfdfdf Company",
+    "location": "Madiwala",
+    "price": 1200
+  }
+]
