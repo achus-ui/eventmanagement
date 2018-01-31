@@ -3,42 +3,36 @@
     "testName": "Dr.Rubin",
     "firmName": "Thyrocare Technologies Ltd",
     "location": "HSR Layout",
-    "price": 200,
-    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/rubin.jpg'
+    "price": 200
   },
   {
     "testName": "Dr.Nitheesh",
     "firmName": "Thyrocare Technologies Ltd",
     "location": "HSR Layout",
-    "price": 200,
-    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/nitheesh.jpg'
+    "price": 200
   },
   {
     "testName": "Dr.Joe",
     "firmName": "Pressure Company",
     "location": "Madiwala",
-    "price": 1200,
-    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/jeo.jpg'
+    "price": 1200
   },
   {
     "testName": "Dr.Dileep",
     "firmName": "errwere Company",
     "location": "Madiwala",
-    "price": 1200,
-    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/dileep.jpg'
+    "price": 1200
   },
   {
     "testName": "Dr.Edison",
     "firmName": "fdfdfdf Company",
     "location": "Madiwala",
-    "price": 1200,
-    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/edison.jpg'
+    "price": 1200
   },
   {
     "testName": "Dr.Vifula",
     "firmName": "fdfdfdf Company",
     "location": "Madiwala",
-    "price": 1200,
-    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/vifula.jpg'
+    "price": 1200
   }
 ]
