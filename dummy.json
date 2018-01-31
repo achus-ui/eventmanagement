@@ -1,26 +1,44 @@
 [
   {
-    "testName": "Diabetic Checking",
+    "testName": "Dr.Rubin",
     "firmName": "Thyrocare Technologies Ltd",
     "location": "HSR Layout",
-    "price": 200
+    "price": 200,
+    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/rubin.jpg'
   },
   {
-    "testName": "Pressure Checking",
+    "testName": "Dr.Nitheesh",
+    "firmName": "Thyrocare Technologies Ltd",
+    "location": "HSR Layout",
+    "price": 200,
+    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/nitheesh.jpg'
+  },
+  {
+    "testName": "Dr.Joe",
     "firmName": "Pressure Company",
     "location": "Madiwala",
-    "price": 1200
+    "price": 1200,
+    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/jeo.jpg'
   },
   {
-    "testName": "dfdstrtetfsfs Checking",
+    "testName": "Dr.Dileep",
     "firmName": "errwere Company",
     "location": "Madiwala",
-    "price": 1200
+    "price": 1200,
+    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/dileep.jpg'
   },
   {
-    "testName": "dfsfsf Checking",
+    "testName": "Dr.Edison",
     "firmName": "fdfdfdf Company",
     "location": "Madiwala",
-    "price": 1200
+    "price": 1200,
+    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/edison.jpg'
+  },
+  {
+    "testName": "Dr.Vifula",
+    "firmName": "fdfdfdf Company",
+    "location": "Madiwala",
+    "price": 1200,
+    "img-src": 'http://www.skiploop.com/wp-content/uploads/2017/11/vifula.jpg'
   }
 ]
