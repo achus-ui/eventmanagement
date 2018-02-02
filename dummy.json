@@ -1,38 +1,4454 @@
 [
   {
-    "testName": "Dr.Rubin",
-    "firmName": "Thyrocare Technologies Ltd",
-    "location": "HSR Layout",
-    "price": 200
-  },
-  {
-    "testName": "Dr.Nitheesh",
-    "firmName": "Thyrocare Technologies Ltd",
-    "location": "HSR Layout",
-    "price": 200
-  },
-  {
-    "testName": "Dr.Joe",
-    "firmName": "Pressure Company",
-    "location": "Madiwala",
-    "price": 1200
-  },
-  {
-    "testName": "Dr.Dileep",
-    "firmName": "errwere Company",
-    "location": "Madiwala",
-    "price": 1200
-  },
-  {
-    "testName": "Dr.Edison",
-    "firmName": "fdfdfdf Company",
-    "location": "Madiwala",
-    "price": 1200
-  },
-  {
-    "testName": "Dr.Vifula",
-    "firmName": "fdfdfdf Company",
-    "location": "Madiwala",
-    "price": 1200
-  }
+    "packageId": "79bc058ff01642739d857306a8842c8a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241512aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Shekar Eye Hospital (A Unit Of Varasiddi Hospital)",
+    "dcCity": "Bengaluru",
+    "dcLocation": "J.P.Nagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12949",
+    "doctorName": "Aditi Parikh",
+    "doctorQualification": "MBBS,DNB -Ophthalmology, Diploma - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 1170
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 1170
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "eab498fb27b848c6ab02358b8a146e17",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "48727aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "The Apollo Clinic",
+    "dcCity": "Bengaluru",
+    "dcLocation": "HSR Layout",
+    "dcServices": ["SoftCopy", "Breakfast"],
+    "price": 350,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6137",
+    "doctorName": "Anjaneyulu A",
+    "doctorQualification": "MBBS, Diploma in Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 750
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 750
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 750
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 750
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 750
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 750
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 350
+    }, {
+    "packageId": "79bc058ff01642739d857306a8842c8a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241512aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Shekar Eye Hospital (A Unit Of Varasiddi Hospital)",
+    "dcCity": "Bengaluru",
+    "dcLocation": "J.P.Nagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12607",
+    "doctorName": "Archana V",
+    "doctorQualification": "MBBS,DNB -Ophthalmology",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 1170
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "d65305f4600544a6ac00f1ece1c49900",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "196607aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Prabha Eye Clinic And Research Centre",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 500,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_9820",
+    "doctorName": "Arvind",
+    "doctorQualification": "MBBS, Diploma in Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1170
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1170
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1170
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1170
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1170
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1170
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 500
+    }, {
+    "packageId": "d96c474b2ccc455c8d15c853da202c0d",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241499aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Karthik Netralaya Institute Of Ophthalmology Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Basavanagudi",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12820",
+    "doctorName": "Avantika Verma",
+    "doctorQualification": "MBBS, DNB - Opthalmology",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "1be8cf3ef76c424cb0ebc162e99fef1a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "48563aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Apollo Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Bannerghatta Road",
+    "dcServices": ["Mammogram"],
+    "price": 500,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_7896",
+    "doctorName": "Bharath Kumar",
+    "doctorQualification": "MBBS, DNB - Ophthalmology, Diploma in Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 500
+    }, {
+    "packageId": "d96c474b2ccc455c8d15c853da202c0d",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241499aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Karthik Netralaya Institute Of Ophthalmology Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Basavanagudi",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12816",
+    "doctorName": "Deepthi Adarsh",
+    "doctorQualification": "MBBS,Diploma - Ophthalmology , FGO, FICO, SRTF",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "e4deb4b1a8e7400599353ea67af4c299",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "48558aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Fortis Hospitals Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Cunnigham Road",
+    "dcServices": [],
+    "price": 540,
+    "percentageDiscount": 0,
+    "priceRange": "600",
+    "doctorUniqueId": "Bengaluru_7178",
+    "doctorName": "Dinesh  Pn",
+    "doctorQualification": "MBBS, MS - Ophthalmology, Diploma in Ophthalmic Medicine and Surgery, FGO",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 690,
+            "slotEndTime": 750
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 690,
+            "slotEndTime": 750
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 690,
+            "slotEndTime": 750
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 690,
+            "slotEndTime": 750
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 690,
+            "slotEndTime": 750
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 570,
+            "slotEndTime": 630
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 540
+    }, {
+    "packageId": "43b0a1d1169740958055e9d311abc7e0",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "196835aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Vasan Eye Care Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Rajajinagar",
+    "dcServices": [],
+    "price": 300,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12445",
+    "doctorName": "Divya Subramaniam ",
+    "doctorQualification": "MBBS,DNB - Ophthalmology, FICO",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 300
+    }, {
+    "packageId": "d6016db5d2d94097be2f4df8a97d4405",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241499aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Karthik Netralaya Institute Of Ophthalmology Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Basavanagudi",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_13627",
+    "doctorName": "Gargi Das",
+    "doctorQualification": "MBBS,MS - Ophthamology, Fellow in Phaco  & Refractive surgery (RGUHS)",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "39d8b04dfbd14db18d7ed5b99fe1c1f6",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180119aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospital Pvt Ltd - Rajajinagar.",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Rajajinagar",
+    "dcServices": [],
+    "price": 250,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6868",
+    "doctorName": "Jayalakshmi R",
+    "doctorQualification": "MBBS, DNB - Ophthalmology, Diploma in Ophthalmic Medicine and Surgery",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 250
+    }, {
+    "packageId": "79bc058ff01642739d857306a8842c8a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241512aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Shekar Eye Hospital (A Unit Of Varasiddi Hospital)",
+    "dcCity": "Bengaluru",
+    "dcLocation": "J.P.Nagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12436",
+    "doctorName": "K. N. Srinivas",
+    "doctorQualification": "MBBS,DNB -Ophthalmology, Diploma - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 1170
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "d96c474b2ccc455c8d15c853da202c0d",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241499aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Karthik Netralaya Institute Of Ophthalmology Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Basavanagudi",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12651",
+    "doctorName": "Karthik R. Meda",
+    "doctorQualification": "MBBS, DNB - Opthalmology, FMRF, FICO, SRTF",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 840
+        }, {
+            "slotStartTime": 900,
+            "slotEndTime": 1140
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 840
+        }, {
+            "slotStartTime": 900,
+            "slotEndTime": 1140
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 840
+        }, {
+            "slotStartTime": 900,
+            "slotEndTime": 1140
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 840
+        }, {
+            "slotStartTime": 900,
+            "slotEndTime": 1140
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 840
+        }, {
+            "slotStartTime": 900,
+            "slotEndTime": 1140
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 840
+        }, {
+            "slotStartTime": 900,
+            "slotEndTime": 1140
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "fd3be348900a4378833db715a8f4efa2",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "48609aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "The Apollo Clinic",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Basavanagudi",
+    "dcServices": ["SoftCopy", "Breakfast"],
+    "price": 350,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6302",
+    "doctorName": "Kiran Kumar L",
+    "doctorQualification": "MBBS, MS - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 840
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 840
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 840
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 840
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 840
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 840
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 350
+    }, {
+    "packageId": "79bc058ff01642739d857306a8842c8a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241512aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Shekar Eye Hospital (A Unit Of Varasiddi Hospital)",
+    "dcCity": "Bengaluru",
+    "dcLocation": "J.P.Nagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12437",
+    "doctorName": "Kiran Sharma",
+    "doctorQualification": "MBBS,MS - Ophthalmology",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 1170
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "bccd27244c79479783a84b222b303a89",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "48608aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "The Apollo Clinic",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Koramangala",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6312",
+    "doctorName": "Krishnaiah M V",
+    "doctorQualification": "MBBS, MS - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 570,
+            "slotEndTime": 810
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 570,
+            "slotEndTime": 810
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 570,
+            "slotEndTime": 810
+        }],
+        "day": 5
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "d96c474b2ccc455c8d15c853da202c0d",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241499aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Karthik Netralaya Institute Of Ophthalmology Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Basavanagudi",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12650",
+    "doctorName": "M. S. Ravindra",
+    "doctorQualification": "MBBS,MD- Opthalmology,FMRF",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1140
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "39d8b04dfbd14db18d7ed5b99fe1c1f6",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180119aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospital Pvt Ltd - Rajajinagar.",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Rajajinagar",
+    "dcServices": [],
+    "price": 250,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_7938",
+    "doctorName": "M.S. Balaji",
+    "doctorQualification": "MBBS, Diploma in Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 250
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6993",
+    "doctorName": "Mahesh Kumar H. M",
+    "doctorQualification": "MBBS, MD - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6987",
+    "doctorName": "Mamtha N",
+    "doctorQualification": "MBBS, MS - Ophthalmology, FVR",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "43b0a1d1169740958055e9d311abc7e0",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "196835aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Vasan Eye Care Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Rajajinagar",
+    "dcServices": [],
+    "price": 300,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12446",
+    "doctorName": "Manjunath",
+    "doctorQualification": "MBBS,MS - Ophthalmology,FRVS",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 300
+    }, {
+    "packageId": "8b1cd3b523ba45d7ae8720c33e2af02b",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241502aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal North Side Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Malleshwaram",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12411",
+    "doctorName": "Manjunath K P",
+    "doctorQualification": "MBBS,MS - Ophthalmology",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 720
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 720
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 720
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 720
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 720
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 720
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "39d8b04dfbd14db18d7ed5b99fe1c1f6",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180119aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospital Pvt Ltd - Rajajinagar.",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Rajajinagar",
+    "dcServices": [],
+    "price": 250,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6866",
+    "doctorName": "Mithun Pai M",
+    "doctorQualification": "MBBS, DNB - Ophthalmology, Diploma in Ophthalmology, FGOP, FG",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 250
+    }, {
+    "packageId": "b4902d73275d436a9883472ac78c0453",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "48557aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Fortis Hospitals Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Bannerghatta Road",
+    "dcServices": ["Mammogram"],
+    "price": 650,
+    "percentageDiscount": 0,
+    "priceRange": "500",
+    "doctorUniqueId": "Bengaluru_7068",
+    "doctorName": "Mohan R Mithare",
+    "doctorQualification": "MBBS, MS - Ophthalmology, Diploma in ophthalmic medicine and surgery ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 780
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 780
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 780
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 780
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 780
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 780
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 650
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_7855",
+    "doctorName": "Mohanraj S.N",
+    "doctorQualification": "MBBS, MD - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "e0c7b74fdbab426d83b15da38defa3e2",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "50500aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Old Airport Road",
+    "dcServices": ["Mammogram"],
+    "price": 380,
+    "percentageDiscount": 0,
+    "priceRange": "400",
+    "doctorUniqueId": "Bengaluru_11674",
+    "doctorName": "Muninajappa",
+    "doctorQualification": "MBBS, MS - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 870
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 150
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 840
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 380
+    }, {
+    "packageId": "10c35aae6f8c46c886ce8d5d2a6eaece",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "50500aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Old Airport Road",
+    "dcServices": ["Mammogram"],
+    "price": 380,
+    "percentageDiscount": 0,
+    "priceRange": "400",
+    "doctorUniqueId": "Bengaluru_11674",
+    "doctorName": "Muninajappa",
+    "doctorQualification": "MBBS, MS - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 870
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 150
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 840
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 380
+    }, {
+    "packageId": "8b1cd3b523ba45d7ae8720c33e2af02b",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241502aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal North Side Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Malleshwaram",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12412",
+    "doctorName": "Muninajappa",
+    "doctorQualification": "MBBS,MS - Ophthalmology",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 870
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 870
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 360
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 870
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "d65305f4600544a6ac00f1ece1c49900",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "196607aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Prabha Eye Clinic And Research Centre",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 500,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_9835",
+    "doctorName": "Muralidharakrishna B S",
+    "doctorQualification": "MBBS, MS - Ophthalmology, DNB - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 510,
+            "slotEndTime": 1140
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 510,
+            "slotEndTime": 1140
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 510,
+            "slotEndTime": 1140
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 510,
+            "slotEndTime": 1140
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 510,
+            "slotEndTime": 1140
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 510,
+            "slotEndTime": 1140
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [{
+            "slotStartTime": 510,
+            "slotEndTime": 1140
+        }],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 500
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6935",
+    "doctorName": "Namita C. Angol",
+    "doctorQualification": "MBBS, MS - Ophthalmology, DNB - Ophthalmology, MNAMS",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_10356",
+    "doctorName": "Namita C. Angol",
+    "doctorQualification": "MBBS, MS - Ophthalmology, DNB - Ophthalmology, MNAMS",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "d96c474b2ccc455c8d15c853da202c0d",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241499aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Karthik Netralaya Institute Of Ophthalmology Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Basavanagudi",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12817",
+    "doctorName": "Palaniswamy K",
+    "doctorQualification": "MBBS,MS - Opthalmology, FAEH",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "6415f4af259a46978cf019c63e1f56d5",
+    "packageName": "Paediatric Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Paediatric Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6995",
+    "doctorName": "Pinto C.N",
+    "doctorQualification": "MBBS, MD - Ophthalmology, Fellow All India Collegium of Ophthalmology",
+    "doctorSpecialization": "Paediatric Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "2ca984ef9cf14902b0ddaffb00b5f9e3",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12587",
+    "doctorName": "Pinto C.N",
+    "doctorQualification": "MBBS,MD - Ophthalmology,FAICO",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "79bc058ff01642739d857306a8842c8a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241512aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Shekar Eye Hospital (A Unit Of Varasiddi Hospital)",
+    "dcCity": "Bengaluru",
+    "dcLocation": "J.P.Nagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12948",
+    "doctorName": "Radhika Torgal",
+    "doctorQualification": "MBBS,MS - Ophthalmology,DNB - Opthalmology,Fellowship  - Cornea and Refractory Surgery",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "79bc058ff01642739d857306a8842c8a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241512aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Shekar Eye Hospital (A Unit Of Varasiddi Hospital)",
+    "dcCity": "Bengaluru",
+    "dcLocation": "J.P.Nagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12381",
+    "doctorName": "Rajashekar Y L",
+    "doctorQualification": "MBBS,MD-Ophthalmology,DNB - Opthalmology",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 900,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 780
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 780
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "a69637ba12da4487a1f1f980ab46ede1",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "169718aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "The Apollo Clinic",
+    "dcCity": "Bengaluru",
+    "dcLocation": "JP Nagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6462",
+    "doctorName": "Rashmi B",
+    "doctorQualification": "MBBS, DNB - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 660
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 660
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 660
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 660
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 660
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 660
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "79bc058ff01642739d857306a8842c8a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241512aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Shekar Eye Hospital (A Unit Of Varasiddi Hospital)",
+    "dcCity": "Bengaluru",
+    "dcLocation": "J.P.Nagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12441",
+    "doctorName": "Ravi B",
+    "doctorQualification": "MBBS,MD-Ophthalmology,DNB - Opthalmology",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 1020,
+            "slotEndTime": 1140
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 1020,
+            "slotEndTime": 1140
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 1020,
+            "slotEndTime": 1140
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 1020,
+            "slotEndTime": 1140
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 1020,
+            "slotEndTime": 1140
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 1020,
+            "slotEndTime": 1140
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "d65305f4600544a6ac00f1ece1c49900",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "196607aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Prabha Eye Clinic And Research Centre",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 500,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_9836",
+    "doctorName": "Roopashri Matada",
+    "doctorQualification": "MBBS, Diploma in Ophthalmology, DNB - Ophthalmology, FRCS",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 500
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6992",
+    "doctorName": "Savio Pereira",
+    "doctorQualification": "MBBS, MS - Ophthalmology, Fellowship in Pahco Refractive",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6934",
+    "doctorName": "Savitha Arun",
+    "doctorQualification": "MBBS, DNB - Ophthalmology, Diploma in Ophthalmic Medicine and Surgery, PGDHA",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "79bc058ff01642739d857306a8842c8a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241512aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Shekar Eye Hospital (A Unit Of Varasiddi Hospital)",
+    "dcCity": "Bengaluru",
+    "dcLocation": "J.P.Nagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12382",
+    "doctorName": "Shailesh GM",
+    "doctorQualification": "MBBS,MD-Ophthalmology,FRCS (Glaucoma, Squint, Cataract)",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 1170
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "a3e91f29abc542b88d872ebe11eea97e",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "48563aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Apollo Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Bannerghatta Road",
+    "dcServices": ["Mammogram"],
+    "price": 500,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12377",
+    "doctorName": "Shalini Shetty",
+    "doctorQualification": "MBBS,MS - Ophthalmology ,FRCS(UK)",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 500
+    }, {
+    "packageId": "1be8cf3ef76c424cb0ebc162e99fef1a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "48563aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Apollo Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Bannerghatta Road",
+    "dcServices": ["Mammogram"],
+    "price": 500,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_7895",
+    "doctorName": "Shalini Shetty",
+    "doctorQualification": "MBBS, MS - Ophthalmology, FRCS(UK)",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 900
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 500
+    }, {
+    "packageId": "27ea4cd4636a45a190d86769765b06d8",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "169300aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Apollo Spectra Hospitals",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Koramangala",
+    "dcServices": [],
+    "price": 800,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12602",
+    "doctorName": "Shalini Shetty",
+    "doctorQualification": "MBBS,MS - Opthalmology",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 1080,
+            "slotEndTime": 1200
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 1080,
+            "slotEndTime": 1200
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 1080,
+            "slotEndTime": 1200
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 1080,
+            "slotEndTime": 1200
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 800
+    }, {
+    "packageId": "b6d76588ae5242bc9260d35cf4afe477",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "169300aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Apollo Spectra Hospitals",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Koramangala",
+    "dcServices": [],
+    "price": 800,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_10538",
+    "doctorName": "Shalini Shetty",
+    "doctorQualification": "MBBS, MS - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 1080,
+            "slotEndTime": 1200
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 1080,
+            "slotEndTime": 1200
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 1080,
+            "slotEndTime": 1200
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 1080,
+            "slotEndTime": 1200
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 800
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6990",
+    "doctorName": "Sheetal Maharishi",
+    "doctorQualification": "MBBS, MS - Ophthalmology, Fellowship in Phaco & Refractive Surgery",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6989",
+    "doctorName": "Shibi Dev B.N",
+    "doctorQualification": "MBBS, DNB - Ophthalmology, Diploma in Ophthalmic Medicine and Surgery, FG",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6988",
+    "doctorName": "Shilpa",
+    "doctorQualification": "MBBS, DNB - Ophthalmology, Diploma in Ophthalmic Medicine and Surgery, FAEH",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "43b0a1d1169740958055e9d311abc7e0",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "196835aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Vasan Eye Care Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Rajajinagar",
+    "dcServices": [],
+    "price": 300,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12447",
+    "doctorName": "Shylaja.S",
+    "doctorQualification": "MBBS,MS - Ophthalmology ,Fellowship -Cornea and External Diseases",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 720,
+            "slotEndTime": 1200
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 300
+    }, {
+    "packageId": "c443a04eba4e48f9847fb67456713c6b",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "196961aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "People Tree Hospitals",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Yeshwanthpur",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_8436",
+    "doctorName": "Sonali Muralidhar",
+    "doctorQualification": "MBBS, MS - Ophthalmology, FVR",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "d6016db5d2d94097be2f4df8a97d4405",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241499aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Karthik Netralaya Institute Of Ophthalmology Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Basavanagudi",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_13628",
+    "doctorName": "Sonarkhan Shilpa Devidas",
+    "doctorQualification": "MBBS,MS - Ophthamology,DNB - Ophthamology, Fellow in Pediatric Ophthalmology, Strabismus & Neuro-Ophthtalmology",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 810,
+            "slotEndTime": 1080
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 810,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 810,
+            "slotEndTime": 1080
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 810,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 810,
+            "slotEndTime": 1080
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 810,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "3fcb8e3acb2e45259cf03ba1d8e2cf83",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "196835aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Vasan Eye Care Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Rajajinagar",
+    "dcServices": [],
+    "price": 300,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_9633",
+    "doctorName": "Soumya Krishna",
+    "doctorQualification": "MBBS, Diploma in Ophthalmology, FG",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 300
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 1000,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6933",
+    "doctorName": "Sri Ganesh",
+    "doctorQualification": "MBBS, MS - Ophthalmology, DNB - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 660,
+            "slotEndTime": 780
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 660,
+            "slotEndTime": 780
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 660,
+            "slotEndTime": 780
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 660,
+            "slotEndTime": 780
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 660,
+            "slotEndTime": 780
+        }],
+        "day": 5
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 1000
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6996",
+    "doctorName": "Supriya Bhagat",
+    "doctorQualification": "MBBS, MS - Ophthalmology, Fellowship in Phaco & Refractive Surgery",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "d96c474b2ccc455c8d15c853da202c0d",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241499aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Karthik Netralaya Institute Of Ophthalmology Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Basavanagudi",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12819",
+    "doctorName": "Swapna Pathak",
+    "doctorQualification": "MBBS,DNB - Opthalmology, FMR",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 900
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 900
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 900
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 900
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 900
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 900
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "2cc7c349e0804f23b5f165d1a16e6eab",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "196635aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Tirumalai Eye Clinic And Surgical Centre",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 500,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_9693",
+    "doctorName": "T.A. Srikanth",
+    "doctorQualification": "MBBS, MD - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 555,
+            "slotEndTime": 780
+        }, {
+            "slotStartTime": 960,
+            "slotEndTime": 1110
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 555,
+            "slotEndTime": 780
+        }, {
+            "slotStartTime": 960,
+            "slotEndTime": 1110
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 720,
+            "slotEndTime": 780
+        }, {
+            "slotStartTime": 960,
+            "slotEndTime": 1110
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 720,
+            "slotEndTime": 780
+        }, {
+            "slotStartTime": 960,
+            "slotEndTime": 1110
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 720,
+            "slotEndTime": 780
+        }, {
+            "slotStartTime": 960,
+            "slotEndTime": 780
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 555,
+            "slotEndTime": 795
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 500
+    }, {
+    "packageId": "b4902d73275d436a9883472ac78c0453",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "48557aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Fortis Hospitals Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Bannerghatta Road",
+    "dcServices": ["Mammogram"],
+    "price": 650,
+    "percentageDiscount": 0,
+    "priceRange": "500",
+    "doctorUniqueId": "Bengaluru_7069",
+    "doctorName": "Usha  Shridhar",
+    "doctorQualification": "MBBS, Diploma in Ophthalmic Medicine and Surgery",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 870,
+            "slotEndTime": 960
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 870,
+            "slotEndTime": 960
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 870,
+            "slotEndTime": 960
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 870,
+            "slotEndTime": 960
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 870,
+            "slotEndTime": 960
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 870,
+            "slotEndTime": 960
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 650
+    }, {
+    "packageId": "a2578d6d7ef04b908a800539f0037092",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "42283aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "The Apollo Clinic",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Indiranagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6620",
+    "doctorName": "Veena Priyadarshini",
+    "doctorQualification": "MBBS, MS - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 570,
+            "slotEndTime": 630
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 570,
+            "slotEndTime": 630
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 570,
+            "slotEndTime": 630
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 570,
+            "slotEndTime": 630
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 570,
+            "slotEndTime": 630
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 570,
+            "slotEndTime": 630
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "c443a04eba4e48f9847fb67456713c6b",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "196961aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "People Tree Hospitals",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Yeshwanthpur",
+    "dcServices": [],
+    "price": 200,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_8438",
+    "doctorName": "Vidya Anandam",
+    "doctorQualification": "MBBS, Diploma in Ophthalmology, DNB - Ophthalmology ",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 200
+    }, {
+    "packageId": "27ea4cd4636a45a190d86769765b06d8",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "169300aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Apollo Spectra Hospitals",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Koramangala",
+    "dcServices": [],
+    "price": 600,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12600",
+    "doctorName": "Vinay Patil",
+    "doctorQualification": "MBBS,MS - Opthalmology,FAEH",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 1110,
+            "slotEndTime": 1200
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 1110,
+            "slotEndTime": 1200
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 1110,
+            "slotEndTime": 1200
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 1110,
+            "slotEndTime": 1200
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 1110,
+            "slotEndTime": 1200
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 1110,
+            "slotEndTime": 1200
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 600
+    }, {
+    "packageId": "3b6cf945d41646149a2e87c14f79e699",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "180115aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Nethradhama Hospitals Pvt Ltd",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_6991",
+    "doctorName": "Vipul Bhandari",
+    "doctorQualification": "MBBS, DNB - Ophthalmology, Diploma in Ophthalmology, Fellowship in Cornea",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "79bc058ff01642739d857306a8842c8a",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "241512aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Shekar Eye Hospital (A Unit Of Varasiddi Hospital)",
+    "dcCity": "Bengaluru",
+    "dcLocation": "J.P.Nagar",
+    "dcServices": [],
+    "price": 400,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_12435",
+    "doctorName": "Vivek M. B.",
+    "doctorQualification": "MBBS,MD-Ophthalmology,DNB - Opthalmology",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 630,
+            "slotEndTime": 1170
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1080
+        }],
+        "day": 6
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 1,
+    "amountAfterDiscount": 400
+    }, {
+    "packageId": "6223739a2ae64556b2e25dc9340c34b4",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "50500aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Old Airport Road",
+    "dcServices": ["Mammogram"],
+    "price": 700,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_1511",
+    "doctorName": "Ajanta Chakravarty",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 1020
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 700
+    }, {
+    "packageId": "6223739a2ae64556b2e25dc9340c34b4",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "50500aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Old Airport Road",
+    "dcServices": ["Mammogram"],
+    "price": 600,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_1696",
+    "doctorName": "Anil R Wani",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 600
+    }, {
+    "packageId": "6223739a2ae64556b2e25dc9340c34b4",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "50500aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Old Airport Road",
+    "dcServices": ["Mammogram"],
+    "price": 600,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_2127",
+    "doctorName": "Candance Mary Dsouza",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 840
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 840
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 840
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 600
+    }, {
+    "packageId": "6223739a2ae64556b2e25dc9340c34b4",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "50500aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Old Airport Road",
+    "dcServices": ["Mammogram"],
+    "price": 600,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_2525",
+    "doctorName": "Geetha",
+    "doctorSpecialization": "Obstetrician & Gynaecologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 960
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 1200
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 780,
+            "slotEndTime": 960
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }, {
+            "slotStartTime": 130,
+            "slotEndTime": 1140
+        }],
+        "day": 5
+    }, {
+        "dayOfWeek": "Sunday",
+        "slots": [{
+            "slotStartTime": 600,
+            "slotEndTime": 960
+        }],
+        "day": 0
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 600
+    }, {
+    "packageId": "6223739a2ae64556b2e25dc9340c34b4",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "50500aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Old Airport Road",
+    "dcServices": ["Mammogram"],
+    "price": 600,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_3118",
+    "doctorName": "Lakshmi Mahesh",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 660,
+            "slotEndTime": 900
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 660,
+            "slotEndTime": 900
+        }],
+        "day": 3
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 600
+    }, {
+    "packageId": "6223739a2ae64556b2e25dc9340c34b4",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "50500aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Old Airport Road",
+    "dcServices": ["Mammogram"],
+    "price": 600,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_3780",
+    "doctorName": "Nitin S Shetty",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Tuesday",
+        "slots": [{
+            "slotStartTime": 510,
+            "slotEndTime": 705
+        }],
+        "day": 2
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 510,
+            "slotEndTime": 705
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 660
+        }],
+        "day": 5
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 600
+    }, {
+    "packageId": "c7ac03787be540819381198977918638",
+    "packageName": "Paediatric Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Paediatric Ophthalmologist"],
+    "dcId": "173533aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Cloudnine",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 500,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_11402",
+    "doctorName": "Seema A V",
+    "doctorSpecialization": "Paediatric Opthalmology",
+    "availableSlots": [{
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 1140,
+            "slotEndTime": 1200
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 1140,
+            "slotEndTime": 1200
+        }],
+        "day": 5
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 500
+    }, {
+    "packageId": "6223739a2ae64556b2e25dc9340c34b4",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "50500aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Old Airport Road",
+    "dcServices": ["Mammogram"],
+    "price": 600,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_5323",
+    "doctorName": "Sujatha",
+    "doctorSpecialization": "General Surgeon",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 1020,
+            "slotEndTime": 1200
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 1020,
+            "slotEndTime": 1200
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 1020,
+            "slotEndTime": 1200
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Saturday",
+        "slots": [{
+            "slotStartTime": 960,
+            "slotEndTime": 1200
+        }],
+        "day": 6
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 600
+    }, {
+    "packageId": "9d29533b63f1457bba78a141bd4c893f",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "173533aaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Cloudnine",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Jayanagar",
+    "dcServices": [],
+    "price": 500,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_11405",
+    "doctorName": "Sumanth Kumar A M",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 1110,
+            "slotEndTime": 1170
+        }],
+        "day": 1
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 500
+    }, {
+    "packageId": "6223739a2ae64556b2e25dc9340c34b4",
+    "packageName": "Ophthalmologist",
+    "packageFilters": ["KEYWORDS:Ophthalmologist"],
+    "dcId": "50500aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "dcName": "Manipal Hospital",
+    "dcCity": "Bengaluru",
+    "dcLocation": "Old Airport Road",
+    "dcServices": ["Mammogram"],
+    "price": 600,
+    "percentageDiscount": 0,
+    "doctorUniqueId": "Bengaluru_5453",
+    "doctorName": "Suzanne John",
+    "doctorSpecialization": "Ophthalmologist",
+    "availableSlots": [{
+        "dayOfWeek": "Monday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 1
+    }, {
+        "dayOfWeek": "Wednesday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 3
+    }, {
+        "dayOfWeek": "Thursday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 780
+        }],
+        "day": 4
+    }, {
+        "dayOfWeek": "Friday",
+        "slots": [{
+            "slotStartTime": 540,
+            "slotEndTime": 960
+        }],
+        "day": 5
+    }],
+    "properties": {},
+    "packageTestCount": 0,
+    "packageConsultationCount": 0,
+    "amountAfterDiscount": 600
+}
 ]
