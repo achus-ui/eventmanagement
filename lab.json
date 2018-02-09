@@ -1,0 +1,1917 @@
+{
+	"serverDate": "\/Date(1518176821199+0530)\/",
+	"categoryItemTypeResponse": [{
+		"categoryItemTypeId": "f4a83a18cec74f1786b8fd2b9aff4c0c",
+		"categoryItemTypeName": "Investigation",
+		"categoryItems": [{
+			"packageId": "1c97c4bc4a214ca99b7ec9cff0c80de2",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3", "HomeSampleCollection:Home Sample Collection"],
+			"dcId": "201611aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Thyrocare Technologies Ltd.",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Basaveshwaranagar",
+			"price": 170,
+			"percentageDiscount": 0,
+			"priceRange": "170",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "80a8d8db746340cda4d273e92dc92879",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Home Sample Collection"],
+			"dcId": "201611aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Thyrocare Technologies Ltd.",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Basaveshwaranagar",
+			"price": 200,
+			"percentageDiscount": 0,
+			"priceRange": "200",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "d5cd36611d084640b79b988b447786e4",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3"],
+			"dcId": "173851aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "NM Medical",
+			"dcCity": "Bengaluru",
+			"dcLocation": "JP Nagar",
+			"price": 200,
+			"percentageDiscount": 0,
+			"priceRange": "250",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "d1fd1ca1a2e64c8dae2f7a2e4a92fd0b",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3"],
+			"dcId": "50497aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "NM Medical",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Old Airport Road",
+			"dcServices": ["Mammogram"],
+			"price": 200,
+			"percentageDiscount": 0,
+			"priceRange": "250",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "111339100a874ad99071c99edaeabc3d",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3(TRI-IODOTHYRONINE)"],
+			"dcId": "42245aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "The Sagar Clinic",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Banashankari",
+			"dcServices": ["Mammogram"],
+			"price": 263,
+			"percentageDiscount": 0,
+			"priceRange": "310",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "64aae95641b8486398b4c765710a3dad",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3(TRI-IODOTHYRONINE)"],
+			"dcId": "42265aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "The Sagar Clinic",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Indiranagar",
+			"dcServices": ["SoftCopy", "Breakfast"],
+			"price": 263,
+			"percentageDiscount": 0,
+			"priceRange": "310",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "b3c69785671c4e70aec5bc1ee7e2f9cb",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3(TRI-IODOTHYRONINE)"],
+			"dcId": "234189aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "The Sagar Clinic",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Konanakunte",
+			"dcServices": ["Mammogram"],
+			"price": 263,
+			"percentageDiscount": 0,
+			"priceRange": "310",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "4b0ad90fd2e04d059c635dddeeeaa301",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3(TRI-IODOTHYRONINE)"],
+			"dcId": "42301aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Sagar Center For Diabetes",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Jayanagar",
+			"price": 263,
+			"percentageDiscount": 0,
+			"priceRange": "310",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "88e96ba3dc7f476b9fe880e06b0b2827",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3"],
+			"dcId": "173851aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "NM Medical",
+			"dcCity": "Bengaluru",
+			"dcLocation": "JP Nagar",
+			"price": 280,
+			"percentageDiscount": 0,
+			"priceRange": "350",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "20ee91ceba124971b7a56531b185e12b",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3"],
+			"dcId": "50497aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "NM Medical",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Old Airport Road",
+			"dcServices": ["Mammogram"],
+			"price": 280,
+			"percentageDiscount": 0,
+			"priceRange": "350",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "7f6a94bdaa6e42fa80ab8bd2fe62019d",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:Thyroid Profile,T3"],
+			"dcId": "51003aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Motherhood",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Sarjapur Road",
+			"dcServices": [],
+			"price": 333,
+			"percentageDiscount": 0,
+			"priceRange": "370",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "1df1383e2c024e84b43221dc413c04d4",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:Thyroid Profile,T3"],
+			"dcId": "51020aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Motherhood",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Indiranagar",
+			"dcServices": [],
+			"price": 333,
+			"percentageDiscount": 0,
+			"priceRange": "370",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "78103d79be1a4ca3b16265c224693217",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:Thyroid Profile,T3"],
+			"dcId": "180130aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Motherhood",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Sahakarnagar",
+			"dcServices": [],
+			"price": 351,
+			"percentageDiscount": 0,
+			"priceRange": "390",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "42a5caccedd64fe7924949a6deb028b2",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233733aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Jayanagar",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "380d1b78e3f5411bb5d7da3941fdbdaa",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233775aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Whitefield",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "7fb1b7e245694a7d9e103876be755703",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233759aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Kumarswamy Layout",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "74c02887e23f41489322bd4db1750a5c",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233739aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Yelahanka",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "02cb4c836f9a48b4b278d9c8f232fe64",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "234225aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLab Group Company",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Domlur",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "707f2d3eabd94e999e38b5235f9a402b",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233761aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Basavanagudi",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "56f79d33930349e4916627be4d41bfa2",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233745aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Vijaynagar",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "8fbd67534a064970adee9038141e9bc4",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233779aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Ulsoor",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "5f88883b2fb846e18e64f1ba73120833",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233773aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Electronic City",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "0e242834e41c4fb2b60d3b88ab6f441c",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233743aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "BTM Layout",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "60d05edb50bb4451b298aec15bc2311c",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233737aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Indiranagar",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "964cfe21ab3540f9b3804a53d2179511",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:FREE T3, FT3", "HomeSampleCollection:Both"],
+			"dcId": "233765aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr. Lal PathLabs",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Chandra Layout",
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "360",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "ea69f9093bbe4090b1f7201f5879bd90",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:Thyroid Profile,FREE T3, FT3"],
+			"dcId": "200470aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Fortis La Femme (No Cashless for PSUs)",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Richmond Circle",
+			"dcServices": [],
+			"price": 360,
+			"percentageDiscount": 0,
+			"priceRange": "450",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "50922bd61a80473982678acf4d143a49",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3"],
+			"dcId": "234189aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "The Sagar Clinic",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Konanakunte",
+			"dcServices": ["Mammogram"],
+			"price": 467,
+			"percentageDiscount": 0,
+			"priceRange": "550",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "74f6391862e64252b26d95dc78443602",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3"],
+			"dcId": "42265aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "The Sagar Clinic",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Indiranagar",
+			"dcServices": ["SoftCopy", "Breakfast"],
+			"price": 467,
+			"percentageDiscount": 0,
+			"priceRange": "550",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "961ea790bf6042b8ad829cb63298c4c9",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3"],
+			"dcId": "42245aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "The Sagar Clinic",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Banashankari",
+			"dcServices": ["Mammogram"],
+			"price": 467,
+			"percentageDiscount": 0,
+			"priceRange": "550",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "1acc1aef47b94230a1f9f633d9fa171d",
+			"packageName": "T3",
+			"packageFilters": ["KEYWORDS:T3"],
+			"dcId": "42301aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Sagar Center For Diabetes",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Jayanagar",
+			"price": 467,
+			"percentageDiscount": 0,
+			"priceRange": "550",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "2dd35318f43b455495bfd73d7115535b",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:Thyroid Profile,FREE T3, FT3"],
+			"dcId": "51020aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Motherhood",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Indiranagar",
+			"dcServices": [],
+			"price": 585,
+			"percentageDiscount": 0,
+			"priceRange": "650",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "74a2b512f08d41f2bdcd37a0d6302712",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:Thyroid Profile,FREE T3, FT3"],
+			"dcId": "51003aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Motherhood",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Sarjapur Road",
+			"dcServices": [],
+			"price": 585,
+			"percentageDiscount": 0,
+			"priceRange": "650",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "26d598514d134849a41fecdd0dae5901",
+			"packageName": "FREE T3, FT3",
+			"packageFilters": ["KEYWORDS:Thyroid Profile,FREE T3, FT3"],
+			"dcId": "180130aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Motherhood",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Sahakarnagar",
+			"dcServices": [],
+			"price": 617,
+			"percentageDiscount": 0,
+			"priceRange": "685",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 1,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}]
+	}],
+	"blockBookingDetails": [],
+	"version": {
+		"major": 1,
+		"minor": 1,
+		"build": -1,
+		"revision": -1,
+		"majorRevision": -1,
+		"minorRevision": -1
+	},
+	"statusCode": "OK",
+	"reasonPhrase": "OK",
+	"headers": [],
+	"isSuccessStatusCode": true
+}

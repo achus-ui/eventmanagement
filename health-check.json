@@ -1,0 +1,1867 @@
+{
+	"serverDate": "\/Date(1518176769666+0530)\/",
+	"categoryItemTypeResponse": [{
+		"categoryItemTypeId": "c920aa2144b9e51184af002219349965",
+		"categoryItemTypeName": "HealthChecks",
+		"categoryItems": [{
+			"packageId": "b8faea903379477f8e927cdcea262f56",
+			"packageName": "Diabetic Health Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Kidney Function Test,Lipid profile,Diabetic Health Check", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "48559aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Fortis Hospitals Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Nagarabhavhi",
+			"dcServices": [],
+			"price": 1020,
+			"percentageDiscount": 0,
+			"priceRange": "1200",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 11,
+			"packageConsultationCount": 1,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "3a736d633c074ab3ab15df988a3a5871",
+			"packageName": "Diabetic Profile-M",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Thyroid Profile,Diabetic Profile-M", "MinAge:18", "MaxAge:80", "Gender:Both", "HomeSampleCollection:Yes"],
+			"dcId": "201611aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Thyrocare Technologies Ltd.",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Basaveshwaranagar",
+			"price": 1200,
+			"percentageDiscount": 0,
+			"priceRange": "2000",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 36,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "388daad52598468f8480d062bcf35246",
+			"packageName": "Diabetic Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Diabetic Check", "MinAge:18", "MaxAge:80", "Gender:Both"],
+			"dcId": "48558aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Fortis Hospitals Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Cunnigham Road",
+			"dcServices": [],
+			"price": 1360,
+			"percentageDiscount": 0,
+			"priceRange": "1600",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 8,
+			"packageConsultationCount": 2,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "b03c4389e5d6457e8807a4c11b48531d",
+			"packageName": "Diabetic Package",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Hemogram,Kidney function Test,Lipid profile,Radiology", "MinAge:17", "MaxAge:80", "HomeSampleCollection:Home Sample Collection"],
+			"dcId": "44990aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Portea Medicals",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Domlur",
+			"price": 1500,
+			"percentageDiscount": 0,
+			"priceRange": "1725",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 15,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "9e2ae69e2fd64a0aae9ab74e258390f2",
+			"packageName": "Basic Diabetic Checkup",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Radiology,DIABETES, Sugar", "MaxAge:80", "Gender:Both", "MinAge:18"],
+			"dcId": "168771aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Vikram Hospital Bengaluru Private Limited",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Millers Road",
+			"dcServices": [],
+			"price": 1500,
+			"percentageDiscount": 0,
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 14,
+			"packageConsultationCount": 1,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "c792dcb86d7e47139f9f3303b9eb3687",
+			"packageName": "Diabetic Screening Package",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Consultation,Kidney function Test,Lipid profile,", "MinAge:18", "MaxAge:80", "Gender:Both"],
+			"dcId": "50544aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Dr Malathi Manipal Hospital",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Jayanagar",
+			"dcServices": [],
+			"price": 1720,
+			"percentageDiscount": 0,
+			"priceRange": "2150",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 6,
+			"packageConsultationCount": 3,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "ada863cfd8744bbbbc8b71c9f0efb0bf",
+			"packageName": "Diabetes Profile",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test", "MinAge:18", "MaxAge:80", "Gender:Both"],
+			"dcId": "54528aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Express Clinics Pvt. Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Marthahalli",
+			"price": 1799,
+			"percentageDiscount": 0,
+			"priceRange": "1999",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 16,
+			"packageConsultationCount": 4,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "4f9b52f5bfd149a1a88ec8f9c4e9ab18",
+			"packageName": "Diabetes Profile",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test", "MinAge:18", "MaxAge:80", "Gender:Both"],
+			"dcId": "42248aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Express Clinics Pvt. Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "HSR Layout",
+			"dcServices": ["SoftCopy"],
+			"price": 1799,
+			"percentageDiscount": 0,
+			"priceRange": "1999",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 16,
+			"packageConsultationCount": 4,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "3806df03162e4624a1422f3f200cbcae",
+			"packageName": "Diabetes Profile",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test", "MinAge:18", "MaxAge:80", "Gender:Both"],
+			"dcId": "54532aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Express Clinics Pvt. Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Kalyan Nagar",
+			"price": 1799,
+			"percentageDiscount": 0,
+			"priceRange": "1999",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 16,
+			"packageConsultationCount": 4,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "be6e3fe4d7b44f228b793f3bb5f56035",
+			"packageName": "Diabetes Profile",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test", "MinAge:18", "MaxAge:80", "Gender:Both"],
+			"dcId": "48617aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Express Clinics Pvt. Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Koramangala",
+			"dcServices": ["Mammogram"],
+			"price": 1799,
+			"percentageDiscount": 0,
+			"priceRange": "1999",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 16,
+			"packageConsultationCount": 4,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "7e7bd3245535464280fa80b9a7b81cb5",
+			"packageName": "Comprehensive Diabetic Health Package",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Comprehensive Diabetic Health Package", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "48559aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Fortis Hospitals Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Nagarabhavhi",
+			"dcServices": [],
+			"price": 1870,
+			"percentageDiscount": 0,
+			"priceRange": "2200",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 14,
+			"packageConsultationCount": 2,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "df2749d04c094e579a39b2742d5e657c",
+			"packageName": "Diabetic Profile-A",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Thyroid Profile,Diabetic Profile-A", "MinAge:18", "MaxAge:80", "Gender:Both", "HomeSampleCollection:Yes"],
+			"dcId": "201611aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Thyrocare Technologies Ltd.",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Basaveshwaranagar",
+			"price": 2123,
+			"percentageDiscount": 0,
+			"priceRange": "3538",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 40,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "f82f9ae27e7040e697b6ec4899740c18",
+			"packageName": "Comprehensive Diabetic Health check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test,Thyroid profile", "Gender:F", "MinAge:17", "MaxAge:80"],
+			"dcId": "51020aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Motherhood",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Indiranagar",
+			"dcServices": [],
+			"price": 2719,
+			"percentageDiscount": 0,
+			"priceRange": "3399",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 15,
+			"packageConsultationCount": 2,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "5c7865a3a7a04d00adfce7341c5e576f",
+			"packageName": "Comprehensive Diabetic Health check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test,Thyroid profile", "MaxAge:80", "Gender:F", "MinAge:17"],
+			"dcId": "51003aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Motherhood",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Sarjapur Road",
+			"dcServices": [],
+			"price": 2719,
+			"percentageDiscount": 0,
+			"priceRange": "3399",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 15,
+			"packageConsultationCount": 2,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "283a6be7dc3548c7aacb36adeb1b4db8",
+			"packageName": "Comprehensive Diabetic Health check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test,Thyroid profile", "MinAge:17", "MaxAge:80", "Gender:F"],
+			"dcId": "180130aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Motherhood",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Sahakarnagar",
+			"dcServices": [],
+			"price": 2719,
+			"percentageDiscount": 0,
+			"priceRange": "3399",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 15,
+			"packageConsultationCount": 2,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "3524afe3ecc74a32a681bd270b55df0a",
+			"packageName": "Executive Diabetic Health Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Executive Diabetic Health Check", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "48558aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Fortis Hospitals Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Cunnigham Road",
+			"dcServices": [],
+			"price": 2975,
+			"percentageDiscount": 0,
+			"priceRange": "3500",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 10,
+			"packageConsultationCount": 4,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "a29854545b454b84a42ff225a80f8249",
+			"packageName": "General Elbit Diabetes check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Kidney Function Test,Lipid profile,General Elbit Diabetes check", "MinAge:18", "MaxAge:80", "Gender:Both"],
+			"dcId": "249447aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Elbit Diagnostics",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Sahakarnagar",
+			"price": 3001,
+			"percentageDiscount": 0,
+			"priceRange": "3645",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 8,
+			"packageConsultationCount": 2,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "0434a3dbdff34212b2cc5fb083b803f7",
+			"packageName": "General Elbit Diabetes check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Kidney Function Test,Lipid profile,General Elbit Diabetes check", "MinAge:18", "MaxAge:80", "Gender:Both"],
+			"dcId": "50496aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Elbit Diagnostics",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Queens Road",
+			"dcServices": ["Mammogram"],
+			"price": 3001,
+			"percentageDiscount": 0,
+			"priceRange": "3645",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 8,
+			"packageConsultationCount": 2,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "34cc383bf439401d813ad93ea33c2d7b",
+			"packageName": "Diabetic Profile-B",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Haematology,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Thyroid Profile,Diabetic Profile-B", "MinAge:18", "MaxAge:80", "Gender:Both", "HomeSampleCollection:Yes"],
+			"dcId": "201611aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Thyrocare Technologies Ltd.",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Basaveshwaranagar",
+			"price": 3046,
+			"percentageDiscount": 0,
+			"priceRange": "5077",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 47,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "86a3b025c74f4b97a1eb7110f5dcb142",
+			"packageName": "Executive Diabetic Health Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Radiology,Executive Diabetic Health Check", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "48559aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Fortis Hospitals Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Nagarabhavhi",
+			"dcServices": [],
+			"price": 3145,
+			"percentageDiscount": 0,
+			"priceRange": "3700",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 16,
+			"packageConsultationCount": 3,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "fe3178b70c8c4bdebc166f92428fab82",
+			"packageName": "Comprehensive Diabetic Health Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Thyroid Profile,Comprehensive Diabetic Health Check", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "48557aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Fortis Hospitals Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Bannerghatta Road",
+			"dcServices": ["Mammogram"],
+			"price": 3145,
+			"percentageDiscount": 0,
+			"priceRange": "3700",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [],
+				"day": 6
+			}],
+			"packageTestCount": 24,
+			"packageConsultationCount": 3,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "5c60a5bb431449eea47bc83149e63859",
+			"packageName": "Diabetic Package",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Thyroid Profile,Diabetic Package", "MinAge:18", "MaxAge:80", "Gender:Both"],
+			"dcId": "200470aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Fortis La Femme (No Cashless for PSUs)",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Richmond Circle",
+			"dcServices": [],
+			"price": 3500,
+			"percentageDiscount": 0,
+			"priceRange": "6999",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 12,
+			"packageConsultationCount": 4,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "297b6492aa854881becf5d8fb4f3146f",
+			"packageName": "Diabetic Profile-C",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Haematology,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Thyroid Profile,Diabetic Profile-C", "MinAge:18", "MaxAge:80", "Gender:Both", "HomeSampleCollection:Yes"],
+			"dcId": "201611aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Thyrocare Technologies Ltd.",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Basaveshwaranagar",
+			"price": 3969,
+			"percentageDiscount": 0,
+			"priceRange": "6615",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 58,
+			"packageConsultationCount": 0,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "a299b44dcee2460b9e8eba9e17681989",
+			"packageName": "Diabetic Checkup",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test,Radiology,Thyroid profile,Diabetes", "Gender:Both", "MinAge:17", "MaxAge:80"],
+			"dcId": "168764aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Bgs Global Hospital",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Kengeri",
+			"dcServices": ["Mammogram"],
+			"price": 4000,
+			"percentageDiscount": 0,
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 29,
+			"packageConsultationCount": 3,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "fd08df2ddb9648c4b1a7f5db16aac26b",
+			"packageName": "Aster Diabetic Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test,Thyroid profile,Diabetes", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "70820aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Aster Cmi Hospital",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Sahakarnagar",
+			"dcServices": ["Mammogram"],
+			"price": 4050,
+			"percentageDiscount": 0,
+			"priceRange": "4050",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 15,
+			"packageConsultationCount": 5,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "c2d395bbc43549fbbd28c7e4e1ea8225",
+			"packageName": "Diabetic Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test,Radiology,Thyroid profile,Vaccination,Diabetic Check  up, Sugar Check up", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "50465aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Sakra World Hospital",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Varthur",
+			"dcServices": [],
+			"price": 4050,
+			"percentageDiscount": 0,
+			"priceRange": "4500",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}, {
+				"dayOfWeek": "Sunday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 0
+			}],
+			"packageTestCount": 33,
+			"packageConsultationCount": 5,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "f7abb151676e415d87f202a53d7ec491",
+			"packageName": "Advanced Diabetic Health Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Thyroid Profile,Advanced Diabetic Health Check", "MinAge:21", "MaxAge:80", "Gender:Both"],
+			"dcId": "48558aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Fortis Hospitals Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Cunnigham Road",
+			"dcServices": [],
+			"price": 4250,
+			"percentageDiscount": 0,
+			"priceRange": "5000",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 15,
+			"packageConsultationCount": 4,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "4107309dbf4a48558f4a549ef0c49ad7",
+			"packageName": "Comprehensive Diabetic Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Hemogram,Kidney function Test,Lipid profile,Liver function Test,Radiology,Thyroid profile,DIABETES,sugar", "MinAge:18", "MaxAge:80", "Gender:Both"],
+			"dcId": "168771aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Vikram Hospital Bengaluru Private Limited",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Millers Road",
+			"dcServices": [],
+			"price": 4400,
+			"percentageDiscount": 0,
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 28,
+			"packageConsultationCount": 3,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "df242f51e62940d69bc971e697d9e71f",
+			"packageName": "Executive Diabetic Health Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Thyroid Profile,Executive Diabetic Health Check", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "48557aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Fortis Hospitals Ltd",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Bannerghatta Road",
+			"dcServices": ["Mammogram"],
+			"price": 4760,
+			"percentageDiscount": 0,
+			"priceRange": "5600",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [],
+				"day": 6
+			}],
+			"packageTestCount": 27,
+			"packageConsultationCount": 4,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "4eb5c8e5998440f6a2247ca9abd66079",
+			"packageName": "Apollo Diabetic Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Radiology,Apollo Diabetic Check", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "196932aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Apollo Speciality Hospital",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Jayanagar",
+			"dcServices": [],
+			"price": 4770,
+			"percentageDiscount": 0,
+			"priceRange": "5300",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 18,
+			"packageConsultationCount": 5,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "4eb5c8e5998440f6a2247ca9abd66079",
+			"packageName": "Apollo Diabetic Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Radiology,Apollo Diabetic Check", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "48563aaaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Apollo Hospital",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Bannerghatta Road",
+			"dcServices": ["Mammogram"],
+			"price": 4770,
+			"percentageDiscount": 0,
+			"priceRange": "5300",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 18,
+			"packageConsultationCount": 5,
+			"amountAfterDiscount": 0
+		}, {
+			"packageId": "4eb5c8e5998440f6a2247ca9abd66079",
+			"packageName": "Apollo Diabetic Check",
+			"packageFilters": ["KEYWORDS:Bio Chemistry,Cardiac Profile,Consultation,Haemogram,Kidney Function Test,Lipid profile,Liver Function Test,Radiology,Apollo Diabetic Check", "MinAge:17", "MaxAge:80", "Gender:Both"],
+			"dcId": "172849aaaaaaaaaaaaaaaaaaaaaaaaaa",
+			"dcName": "Apollo Hospitals, SheshadriPuram (A Unit Of Apollo Hospitals Enterprise Ltd)",
+			"dcCity": "Bengaluru",
+			"dcLocation": "Seshadripuram",
+			"dcServices": [],
+			"price": 4770,
+			"percentageDiscount": 0,
+			"priceRange": "5300",
+			"availableSlots": [{
+				"dayOfWeek": "Monday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 1
+			}, {
+				"dayOfWeek": "Tuesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 2
+			}, {
+				"dayOfWeek": "Wednesday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 3
+			}, {
+				"dayOfWeek": "Thursday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 4
+			}, {
+				"dayOfWeek": "Friday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 5
+			}, {
+				"dayOfWeek": "Saturday",
+				"slots": [{
+					"slotStartTime": 450,
+					"slotEndTime": 690
+				}],
+				"day": 6
+			}],
+			"packageTestCount": 18,
+			"packageConsultationCount": 5,
+			"amountAfterDiscount": 0
+		}]
+	}],
+	"blockBookingDetails": [],
+	"version": {
+		"major": 1,
+		"minor": 1,
+		"build": -1,
+		"revision": -1,
+		"majorRevision": -1,
+		"minorRevision": -1
+	},
+	"statusCode": "OK",
+	"reasonPhrase": "OK",
+	"headers": [],
+	"isSuccessStatusCode": true
+}
