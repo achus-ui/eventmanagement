@@ -14,6 +14,7 @@
 		"availableInSameTime": true,
 		"price": 400,
 		"discountedRate": "",
+		"homeVisitAvailable": true,
 		"availableSlots": [{
 			"dayOfWeek": "Monday",
 			"slots": [{
@@ -66,7 +67,7 @@
 			"slots": [],
 			"day": 0
 		}]
-	},{
+	}, {
 		"ProviderName": "Fortis Hospitals Ltd",
 		"ProviderLogo": "",
 		"ProviderId": "",
@@ -79,6 +80,7 @@
 		"availableInSameTime": false,
 		"price": 400,
 		"discountedRate": "",
+		"homeVisitAvailable": false,
 		"availableSlots": [{
 			"dayOfWeek": "Monday",
 			"slots": [{
