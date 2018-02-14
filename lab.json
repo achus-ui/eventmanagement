@@ -8,6 +8,7 @@
 		"city": "Bengaluru",
 		"price": 150,
 		"percentageDiscount": 0,
+    "homeVisitAvailable": true,
 		"availableSlots": [{
 			"dayOfWeek": "Monday",
 			"slots": [{
@@ -59,6 +60,7 @@
 		"city": "Bengaluru",
 		"price": 150,
 		"percentageDiscount": 0,
+    "homeVisitAvailable": true,
 		"availableSlots": [{
 			"dayOfWeek": "Monday",
 			"slots": [{
